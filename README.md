@@ -1,6 +1,7 @@
 # Mr Robot inspired CTF
 hello friend 
-# Welcome to your CDK Python project!
+
+# ascii art
 
 This is a blank project for CDK development with Python.
 
